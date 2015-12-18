@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Featured Speakers Announcement"
+title:  "Featured Speakers"
 date:   2015-12-18 15:20:31
 categories: symposium update
 ---
