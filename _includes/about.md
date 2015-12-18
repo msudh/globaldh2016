@@ -1,4 +1,4 @@
-<img align="left" style="margin:0 10px 10px 0" width="287px" height="287px" src="images/map-medium.png">
+<img align="left" style="margin:0 10px 10px 0" width="287px" height="287px" src="http://msuglobaldh.org/images/map-medium.png">
 
 ##Global Digital Humanities Symposium at Michigan State University
 
