@@ -3,9 +3,10 @@ layout: page
 title: Schedule
 permalink: /schedule/
 ---
-```
+
 ####Friday, April 8th, 2016
 
+```
 9:00am - 11:30am | Workshop - Minimal Computing
 
 11:45am - 1:00pm | Lunch
@@ -17,9 +18,9 @@ permalink: /schedule/
 5:30pm - 6:30pm | Reception
 ```
 
-```
 ####Saturday, April 9th, 2016
 
+```
 8:30am - 9:30am | Breakfast
 
 9:45am - 10:45am | Speaker
