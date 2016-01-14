@@ -9,6 +9,6 @@ We are delighted to announce several of our featured speakers for the Symposium!
 - [Dorothy Kim](https://twitter.com/dorothyk98), Vassar College
 - [Alex Gil](http://elotroalex.webfactional.com/), Columbia University
 - [Radhika Gajjala](http://www.radhikagajjala.org/), Bowling Green State University 
-- [Hoyt Long] (https://ealc.uchicago.edu/faculty/long), University of Chicago
+- [Hoyt Long](https://ealc.uchicago.edu/faculty/long), University of Chicago
 
 More speakers, CFP information for local presenters, and scheduling information to come in January.
