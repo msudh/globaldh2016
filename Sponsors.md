@@ -7,17 +7,13 @@ permalink: /sponsors/
 
 Thanks to our sponsors:
 
-Michigan State Unviersity College of Arts & Letters 
-<img src="https://cloud.githubusercontent.com/assets/10420847/12365293/e7b8ff3e-bba1-11e5-9ed4-bcd102ae10ae.jpg">
+<a href="http://www.cal.msu.edu/"><img src="https://cloud.githubusercontent.com/assets/10420847/12365293/e7b8ff3e-bba1-11e5-9ed4-bcd102ae10ae.jpg" alt="Michigan State University College of Arts and Letters"/></a>
 
-College of Arts & Letters Digital Humanities Program
-<img src="https://cloud.githubusercontent.com/assets/10420847/12365311/05797ac6-bba2-11e5-88e9-777181f7797a.jpg">
+<a href="http://dh.cal.msu.edu/"><img src="https://cloud.githubusercontent.com/assets/10420847/12365311/05797ac6-bba2-11e5-88e9-777181f7797a.jpg" alt="College of Arts and Letters Digital Humanities Program" /></a>
 
-Michigan State University Libraries
-<img src="https://cloud.githubusercontent.com/assets/10420847/12365301/ffc8cde8-bba1-11e5-8ac6-300cb0d758d0.png">
+<a href="https://www.lib.msu.edu/dh/"><img src="https://cloud.githubusercontent.com/assets/10420847/12365721/97fffab2-bba4-11e5-9b06-6085d3abc338.png" alt="Michigan State University Libraries" /></a>
 
-LEADR
-<img src="https://cloud.githubusercontent.com/assets/10420847/12365296/ee49fcd6-bba1-11e5-8314-08cdbcedab2e.png">
+<a href="http://leadr.msu.edu/"><img src="https://cloud.githubusercontent.com/assets/10420847/12365736/b0438ea4-bba4-11e5-83d7-294c706b0ce8.png" alt="LEADER" /></a>
 
 Global Studies in the Arts and Humanities
 
