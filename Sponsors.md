@@ -3,6 +3,7 @@ layout: page
 title: Sponsors
 permalink: /sponsors/
 ---
+*Page under construction. Pardon the mess.*
 
 Thanks to our sponsors:
 
