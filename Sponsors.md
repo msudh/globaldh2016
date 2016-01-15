@@ -8,11 +8,11 @@ Thanks to our sponsors:
 
 Michigan State Unviersity College of Arts & Letters
 
-College of Arts & Letters Digital Humanities
+College of Arts & Letters Digital Humanities Program
 
 Michigan State University Libraries
 
-LEADR Lab
+LEADR
 
 Global Studies in the Arts and Humanities
 
