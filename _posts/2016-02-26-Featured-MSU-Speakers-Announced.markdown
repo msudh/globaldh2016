@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Featured MSU Speakers Announced"
-date:   2016-02-12 12:31:31
+date:   2016-02-26 12:31:31
 categories: symposium update
 ---
 
