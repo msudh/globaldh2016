@@ -1,4 +1,9 @@
-
+---
+layout: post
+title:  "Featured MSU Speakers Announced"
+date:   2016-02-12 12:31:31
+categories: symposium update
+---
 
 We're excited to announce our featured MSU speakers:
 
