@@ -1,0 +1,13 @@
+
+
+We're excited to announce our featured MSU speakers:
+
+Amy DeRogatis, Department of Religious Studies
+
+Mohammad Khalil, Department of Religous Studies and Muslim Studies Program
+
+Charles Keith, Department of History
+
+Candace Keller, Department of Art, Art History, and Design
+
+Detailed information about their talks will be coming in March. Check back for more information.
