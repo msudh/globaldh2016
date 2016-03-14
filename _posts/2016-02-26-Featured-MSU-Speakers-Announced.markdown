@@ -7,6 +7,7 @@ categories: symposium update
 We're excited to announce our featured MSU speakers:
 
 + [Amy DeRogatis](http://religiousstudies.msu.edu/faculty/amy-derogatis/), Department of Religious Studies
++ [Bobby Smiley](http://staff.lib.msu.edu/bsmiley/), MSU Libraries
 + [Charles Keith](http://history.msu.edu/people/faculty/charles-keith/), Department of History
 + [Candace Keller](http://www.art.msu.edu/profile/keller), Department of Art, Art History, and Design
 + [Mohammad Khalil](http://religiousstudies.msu.edu/faculty/mohammed-khalil/), Department of Religous Studies and Muslim Studies Program
