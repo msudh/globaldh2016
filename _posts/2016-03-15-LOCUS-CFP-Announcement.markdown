@@ -12,7 +12,7 @@ Time: 4:00 - 6:00pm
 Location: MSU Union, Room 55 (REAL Classroom)
 
 Call for Proposals deadline: March 29, 2016
-Please submit abstracts no longer than 300 words to: go.cal.msu.edu/locus
+Please submit abstracts no longer than 300 words to: [go.cal.msu.edu/locus](http://go.cal.msu.edu/locus)
 
 This LOCUS will be held under the umbrella of the inaugural Global Digital Humanities Symposium.  This avenue for presentations and discussion seeks to address how the interdisciplinary practices of digital humanities and digital social science can and should speak to the global cultural record. 
 
@@ -25,4 +25,4 @@ What are the environmental impacts, concerns, and issues of digital research? â€
 How are local accents inflected in the practices and ethics of digital humanities and social science?â€¨
 We are especially receptive to hearing about works in progress relating to research, teaching, or any other type of work that addresses global digital humanities or digital social science. Proposals from students (undergraduate and graduate), faculty, and staff are encouraged equally.
 
-Find out more at: http://digitalhumanities.msu.edu/locus/next/
+Find out more at: [digitalhumanities.msu.edu/locus/next](http://digitalhumanities.msu.edu/locus/next/)
