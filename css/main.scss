@@ -30,6 +30,8 @@ $background-repeat: no-repeat;
 $background-attachment: fixed;
 $background-size: cover;
 
+#element {background-image: url(images/globaldigitalhumanitiessymposiumbackground-1.jpg); }
+
 // Using media queries with like this:
 // @include media-query($palm) {
 //     .wrapper {
